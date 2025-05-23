@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Studying AI & ML <be>
+Currently Studying AI & ML <br>
 Passionate Full-Stack .NET & Angular developer
 
 
