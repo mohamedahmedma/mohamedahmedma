@@ -1,5 +1,5 @@
 ### Hey there!
-Currently Studying AI & ML <hr>
+Currently Studying AI & ML
 Passionate Full-Stack .NET & Angular developer
 
 # 💻 Tech Stack:
