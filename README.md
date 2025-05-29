@@ -1,5 +1,5 @@
-<h2>Hey there!</h2><br>
-Currently Studying AI & ML <br>
+<h2>Hey there!</h2>
+Currently Studying AI & ML <hr>
 Passionate Full-Stack .NET & Angular developer
 
 
