@@ -1,4 +1,4 @@
-Hey there!
+<h2>Hey there!</h2>h2><br>
 Currently Studying AI & ML <br>
 Passionate Full-Stack .NET & Angular developer
 
