@@ -1,5 +1,5 @@
 ### Hey there!
-Currently Studying AI & ML
+Currently Studying AI & ML <br>
 Passionate Full-Stack .NET & Angular developer
 
 # 💻 Tech Stack:
@@ -7,15 +7,12 @@ Passionate Full-Stack .NET & Angular developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohamedahmedma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohamedahmedma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmedma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohamedahmedma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamedahmedma&icon=0&color=0)](https://visitcount.itsvg.in)
